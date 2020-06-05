@@ -1,0 +1,13 @@
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.exe.config
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.exe
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.pdb
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\SomeProject.Library.dll
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\bin\Debug\SomeProject.Library.pdb
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\SomeProject.TcpClient.ClientMainWindow.resources
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\SomeProject.TcpClient.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.exe
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.pdb

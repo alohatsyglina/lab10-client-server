@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\TcpServer.exe.config
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\TcpServer.exe
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\TcpServer.pdb
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\SomeProject.Library.dll
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\SomeProject.Library.pdb
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.exe
+C:\Users\Пользователь\Desktop\учеба\#\10\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.pdb
