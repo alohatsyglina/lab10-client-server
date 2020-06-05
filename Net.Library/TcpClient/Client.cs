@@ -18,7 +18,7 @@ namespace SomeProject.Library.Client
         {
             try
             {
-                tcpClient = new TcpClient("127.0.0.1", 8081);
+                tcpClient = new TcpClient("127.0.0.1", 8080);
                 StringBuilder recievedMessage = new StringBuilder();
                 byte[] data = new byte[256];
                 NetworkStream stream = tcpClient.GetStream();
@@ -49,7 +49,7 @@ namespace SomeProject.Library.Client
         {
             try
             {
-                tcpClient = new TcpClient("127.0.0.1", 8081);
+                tcpClient = new TcpClient("127.0.0.1", 8080);
                 NetworkStream stream = tcpClient.GetStream();
                 byte[] data = System.Text.Encoding.UTF8.GetBytes(message);
                 stream.Write(data, 0, data.Length);
@@ -72,7 +72,7 @@ namespace SomeProject.Library.Client
         {
             try
             {
-                tcpClient = new TcpClient("127.0.0.1", 8081);
+                tcpClient = new TcpClient("127.0.0.1", 8080);
                 NetworkStream stream = tcpClient.GetStream();
                 List<byte> Arr = new List<byte>();
                 Arr.AddRange(System.Text.Encoding.UTF8.GetBytes(Path.GetExtension(filePath)));
